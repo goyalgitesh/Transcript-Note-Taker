@@ -2,6 +2,8 @@
 
 Transcript-Note-Taker is an advanced application that effortlessly converts your YouTube videos into detailed notes using cutting-edge machine learning technology. Powered by Google Gemini and Python, it ensures accurate and efficient transcription for all your content needs.
 
+## App Link:
+https://transcript-note-taker.streamlit.app
 
 ## Key Features: 
 1.	When you select a subject, a predefined prompt will automatically fill the text field. You can also change and edit that prompt according to your needs. You can write the prompt in any language you want.
